@@ -13,7 +13,7 @@
 
 This repository contains the **analysis code and data** for the first measurement of the nuclear symmetry energy slope parameter **L₀** using **vortex oscillation spectroscopy** in pulsar glitches. The method exploits post-glitch oscillations observed in the Vela pulsar and independently validated in PSR J1522-5735, establishing a novel astrophysical probe of the nuclear equation of state (EoS).
 
-**Paper:** Published on arXiv (link above)
+**Paper:** https://doi.org/10.5281/zenodo.17537461
 
 ### Main Result
 
@@ -36,7 +36,7 @@ L₀ = 60.5 ± 1.5 (stat) ± 6.5 (sys) MeV
 
 ### Paper and Code
 
-- **Paper (arXiv):** [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX) - Update link after submission
+- **Paper:** https://doi.org/10.5281/zenodo.17537461
 - **Code Repository:** This GitHub repository contains all analysis code
 - **Data:** Observational data and numerical results in JSON format
 
@@ -595,6 +595,4 @@ make all
 
 This will set up the environment and run all analyses. Total time: ~2 minutes.
 
-**Main finding in one sentence:** The nuclear symmetry energy slope L₀ = 60.5 ± 6.7 MeV, measured for the first time from vortex oscillations in pulsar glitches and independently validated across two pulsars with different rotation rates.
-
-**Congratulations on reaching the end of this README!** You now know more about vortex oscillation spectroscopy than 99.9% of humanity. 
+**Main finding in one sentence:** The nuclear symmetry energy slope L₀ = 60.5 ± 6.7 MeV, measured for the first time from vortex oscillations in pulsar glitches and independently validated across two pulsars with different rotation rates. 
