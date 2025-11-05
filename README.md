@@ -1,5 +1,7 @@
 # Nuclear Symmetry Energy Measurement from Vortex Oscillations in Pulsar Glitches
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17537461.svg)](https://doi.org/10.5281/zenodo.17537461)
+
 **arXiv:** [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX) (Update after submission)
 
 **Date:** November 5, 2025
